@@ -39,8 +39,8 @@
    ```
 
 ## 📸 Скриншот
-![Интерфейс калькулятора](<img width="417" height="481" alt="{2F70CD04-6C09-4D51-B90F-EF37B430EF1B}" src="https://github.com/user-attachments/assets/b413eeaf-275f-4e04-b142-97902bb99a59" />
-)
+![<img width="417" height="481" alt="{2F70CD04-6C09-4D51-B90F-EF37B430EF1B}" src="https://github.com/user-attachments/assets/3506e9c7-3a92-4611-a1ba-83916832359e" />
+]
 
 ## 📁 Структура проекта
 *   `main.py` — точка входа, инициализация окна.
