@@ -17,7 +17,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/aromihsoy/Calculator
    cd Calculator
    ```
 
@@ -26,6 +26,8 @@
    python -m venv venv
    # Для Windows:
    venv\Scripts\activate
+   # Для Mac/Linux:
+   source venv/bin/activate
    ```
 
 3. **Установите зависимости:**
